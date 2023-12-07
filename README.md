@@ -4,9 +4,13 @@ Este proyecto consiste en un dashboard de ventas interactivo para una ferreterí
 
 ## Hoja 1: Resumen General de Ventas
 
-- **Ventas Totales**: Muestra las ventas totales del mes, el cambio porcentual respecto al mes anterior y las ventas totales del año.
-- **Gráficos de Ventas**: Incluye un gráfico circular de ventas por tipo de cliente y un gráfico de líneas de ventas por mes.
-- **Tabla de Productos**: Presenta una tabla de ventas por producto y un gráfico de barras de ventas por categoría de producto.
+La primera hoja del dashboard proporciona un resumen general de las ventas de la ferretería. Esta vista integral permite a los usuarios obtener una rápida comprensión del rendimiento de ventas a través de varias métricas e indicadores visuales.
+
+- **Ventas Totales**: Muestra las **ventas totales**, la **ganancia** y el  **procentaje** de la ganancia, ofreciendo una visión clara del crecimiento y las tendencias de ventas.
+- **Gráficos de Ventas**: Incluye un **gráfico circular** que segmenta las ventas por tipo de cliente, proporcionando insights sobre la diversidad de la base de clientes, y un **gráfico de líneas** que traza las ventas por mes, destacando las fluctuaciones y patrones estacionales.
+- **Tabla de Productos**: Presenta una **tabla de ventas por producto** que muestra las ventas por categoría de producto, lo que ayuda a identificar los productos más vendidos y las categorías más populares.
+
+Los usuarios pueden interactuar con los gráficos para obtener más detalles y filtrar los datos según sea necesario, lo que facilita la toma de decisiones basada en datos precisos y actualizados.
 
 ![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria2.png)
 
@@ -28,8 +32,12 @@ Este proyecto consiste en un dashboard de ventas interactivo para una ferreterí
 
 ## Hoja 4: Detalles de Producto Seleccionado
 
-- **Ventas por Año**: Proporciona un historial de las ventas anuales del producto seleccionado.
-- **Precio del Producto Mes a Mes**: Muestra cómo varía el precio del producto seleccionado cada mes.
+La última hoja del dashboard ofrece una visión detallada del producto seleccionado, proporcionando información valiosa sobre las ventas anuales y la evolución del precio a lo largo del tiempo. Esta hoja es crucial para la toma de decisiones relacionadas con la estrategia de precios y la planificación de inventario.
+
+- **Ventas por Año**: Presenta un resumen de las **ventas anuales** del producto seleccionado, permitiendo a los usuarios evaluar el rendimiento del producto a lo largo del tiempo y comparar las tendencias de ventas año tras año.
+- **Precio del Producto Mes a Mes**: El gráfico más destacado de esta hoja es el que muestra la **variación del precio del producto mes a mes**. Este gráfico lineal es una herramienta esencial para comprender cómo los cambios en el precio pueden afectar la demanda y las ventas del producto. Los usuarios pueden rastrear los ajustes de precios históricos y correlacionarlos con eventos específicos o promociones para optimizar futuras estrategias de precios.
+
+Este análisis detallado del producto seleccionado ayuda a los gerentes de la ferretería a identificar oportunidades para aumentar la rentabilidad y a ajustar los precios de manera proactiva en respuesta a las fluctuaciones del mercado y la competencia.
 
 ![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria5.png)
 
