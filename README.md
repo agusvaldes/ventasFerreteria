@@ -27,10 +27,3 @@ Este proyecto consiste en un dashboard de ventas interactivo para una ferreterí
 
 Para navegar por el dashboard, seleccione la hoja correspondiente en la parte inferior de la interfaz. Puede interactuar con los gráficos para filtrar y profundizar en los datos específicos.
 
-## Contribuciones
-
-Este proyecto es un esfuerzo colaborativo. Si desea contribuir o tiene sugerencias, no dude en abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la licencia [INSERTE LICENCIA AQUÍ]. Para más detalles, vea el archivo LICENSE en este repositorio.
