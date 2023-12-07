@@ -8,20 +8,31 @@ Este proyecto consiste en un dashboard de ventas interactivo para una ferreterí
 - **Gráficos de Ventas**: Incluye un gráfico circular de ventas por tipo de cliente y un gráfico de líneas de ventas por mes.
 - **Tabla de Productos**: Presenta una tabla de ventas por producto y un gráfico de barras de ventas por categoría de producto.
 
+![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria2.png)
+
 ## Hoja 2: Análisis de Ventas por Sucursal y Producto
 
 - **Ventas y Costos por Sucursal**: Un gráfico de barras compara las ventas y los costos entre diferentes sucursales.
 - **Total Ventas por Grupo de Productos**: Un gráfico de barras apiladas muestra las ventas divididas por grupo de productos.
 - **Desempeño de Vendedores**: Una tabla detalla las ventas realizadas por cada vendedor.
 
+![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria3.png)
+
+
 ## Hoja 3: Segmentación de Ventas por País
 
 - **Gráfico de Árbol de Descomposición**: Este gráfico muestra cómo se desglosan las ventas por país, año, sucursal y producto.
+
+![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria4.png)
+
 
 ## Hoja 4: Detalles de Producto Seleccionado
 
 - **Ventas por Año**: Proporciona un historial de las ventas anuales del producto seleccionado.
 - **Precio del Producto Mes a Mes**: Muestra cómo varía el precio del producto seleccionado cada mes.
+
+![Logo](https://github.com/agusvaldes/ventasFerreteria/blob/main/Ferreteria/ferreteria5.png)
+
 
 ## Uso del Dashboard
 
