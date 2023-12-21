@@ -44,5 +44,5 @@ Este análisis detallado del producto seleccionado ayuda a los gerentes de la fe
 
 ## Uso del Dashboard
 
-Para navegar por el dashboard, seleccione la hoja correspondiente en la parte inferior de la interfaz. Puede interactuar con los gráficos para filtrar y profundizar en los datos específicos.
+Para navegar por el dashboard, seleccione la hoja correspondiente en la parte izquierda de la interfaz. Puede interactuar con los gráficos para filtrar y profundizar en los datos específicos.
 
